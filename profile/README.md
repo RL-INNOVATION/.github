@@ -1,10 +1,10 @@
-# RL-STUDIOS
+# RL-INNOVATION
 
-Welcome to **RL-STUDIOS**, an organization dedicated to crafting groundbreaking experiences in games and software. Our mission is to turn innovative ideas into reality, redefining industry standards and building a future fueled by creativity and technology.
+Welcome to **RL-INNOVATION**, an organization dedicated to crafting groundbreaking experiences in games and software. Our mission is to turn innovative ideas into reality, redefining industry standards and building a future fueled by creativity and technology.
 
 ## 🌟 About Us
 
-At RL-STUDIOS, we believe that technology and creativity are the keys to unlocking endless possibilities. Our focus lies in:
+At RL-INNOVATION, we believe that technology and creativity are the keys to unlocking endless possibilities. Our focus lies in:
 - **Game Development**: Creating boundary-pushing games with captivating stories, cutting-edge graphics, and engaging interactivity.
 - **Innovative Software**: Designing solutions that make life more productive, intuitive, and enjoyable.
 
@@ -26,16 +26,17 @@ Join us on this journey! Here’s how you can contribute:
 
 ---
 
-**RL-STUDIOS** is determined to take innovation to the next level. Join us and be part of the technological revolution!
+**RL-INNOVATION** is determined to take innovation to the next level. Join us and be part of the technological revolution!
 
 
 <!--
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🤝 A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
